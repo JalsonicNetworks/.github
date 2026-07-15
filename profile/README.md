@@ -1,6 +1,6 @@
 # Jalsonic Networks
 
-Jalsonic Networks is a global IT services and consulting firm specializing in digital transformation, custom software development, and innovative logistics solutions. Established in 2018, we empower businesses across the USA, UK, Pakistan, and Saudi Arabia through cutting-edge technology and creative design.
+Jalsonic Networks is a global IT services and consulting firm specializing in digital transformation, custom software development, and innovative logistics solutions. Established in 2020, we empower businesses across the USA, UK, Pakistan, and Saudi Arabia through cutting-edge technology and creative design.
 
 ## 🚀 Core Services
 
