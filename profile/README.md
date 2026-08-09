@@ -10,10 +10,7 @@ Jalsonic Networks is a global IT services and consulting firm specializing in di
 - **Digital Transformation:** Helping enterprises migrate to scalable, cloud-based infrastructures.
 
 ## 🌍 Global Presence
-* **Riyadh, Saudi Arabia** (Headquarters)
 * **Lahore, Pakistan** (Development Hub)
-* **London, UK**
-* **New York, USA**
 
 ---
 © 2026 Jalsonic Networks. All rights reserved.
